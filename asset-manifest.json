@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akai-pro-force/static/css/main.74bb1d03.css",
+    "main.js": "/akai-pro-force/static/js/main.670f5481.js",
+    "index.html": "/akai-pro-force/index.html",
+    "main.74bb1d03.css.map": "/akai-pro-force/static/css/main.74bb1d03.css.map",
+    "main.670f5481.js.map": "/akai-pro-force/static/js/main.670f5481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74bb1d03.css",
+    "static/js/main.670f5481.js"
+  ]
+}
